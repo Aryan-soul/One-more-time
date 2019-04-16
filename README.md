@@ -12,6 +12,7 @@ namespace Start
             while(true)
             {
                 Console.WriteLine("Just do it");
+                Console.ReadLine();
             }
         }
     }
