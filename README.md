@@ -8,9 +8,9 @@
 
 //My pain
 
+## Look at me!!!
+I solve it
 ## Something new for me
-using System;
-
 namespace Start
 {
     class Program
