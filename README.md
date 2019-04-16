@@ -14,6 +14,7 @@ namespace Start
                 Console.WriteLine("Just do it");
                 Console.ReadLine();
             }
+            Console.WriteLine("It'll work!");
         }
     }
 }
